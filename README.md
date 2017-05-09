@@ -1,4 +1,3 @@
 # Basic-Calculator
-Basic Calculator created for Computer Programming 2 class
-This is a basic calculator application created using Windows Forms.
-My code for each of the buttons is located in the Form1.cs file.
+A Basic Calculator app created in Windows Forms for Computer Programming 2 class.
+My code the form is located in the Form1.cs file.
