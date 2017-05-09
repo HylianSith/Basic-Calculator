@@ -1,0 +1,15 @@
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\bin\Debug\FirstCalc.exe.config
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\bin\Debug\FirstCalc.exe
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\bin\Debug\FirstCalc.pdb
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.csprojResolveAssemblyReference.cache
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.Properties.Resources.resources
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.csproj.GenerateResource.Cache
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.exe
+c:\users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.pdb
+C:\Users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\bin\Debug\af-ZA\FirstCalc.resources.dll
+C:\Users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.frmFirstCalc.resources
+C:\Users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\FirstCalc.frmFirstCalc.af-ZA.resources
+C:\Users\vanoevj\documents\visual studio 2013\Projects\FirstCalc\FirstCalc\obj\Debug\af-ZA\FirstCalc.resources.dll
+C:\Users\jason_000\Desktop\FirstCalc\FirstCalc\FirstCalc\bin\Debug\FirstCalc.exe.config
+C:\Users\jason_000\Desktop\FirstCalc\FirstCalc\FirstCalc\obj\Debug\FirstCalc.exe
+C:\Users\jason_000\Desktop\FirstCalc\FirstCalc\FirstCalc\obj\Debug\FirstCalc.pdb
